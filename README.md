@@ -1,6 +1,6 @@
-#Mountain Route Optimization: Graph Theory meets Elevation
+# Mountain Route Optimization: Graph Theory meets Elevation
 
-#Project Overview
+# Project Overview
 
 Finding the optimal mountain route is not just about the shortest distance.
 Elevation gain plays a crucial role in how difficult and time-consuming a trail truly is.
@@ -8,11 +8,11 @@ Elevation gain plays a crucial role in how difficult and time-consuming a trail 
 This project combines **Graph Theory** and **Naismith's Rule** to model, analyze,
 and compare different definitions of "optimal" on two real Bulgarian mountain GPS tracks.
 
-**Key Question:**
+- Key Question:
 > *Is the shortest path always the best path in the mountains?*
 
 
-#Objectives
+# Objectives
 
 - Model real GPX mountain tracks as weighted graphs
 - Implement **Dijkstra's Algorithm** from scratch
@@ -22,7 +22,7 @@ and compare different definitions of "optimal" on two real Bulgarian mountain GP
 
 ---
 
-##Data
+# Data
 
 This project uses two real GPS tracks from Bulgarian mountains:
 
